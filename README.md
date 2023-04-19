@@ -1,6 +1,4 @@
-# Context API na prática
-
-## Rodando
+# Context API
 
 Instale os pacotes com:
 
