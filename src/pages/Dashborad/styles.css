@@ -1,0 +1,41 @@
+.container-dash {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.name {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.email {
+    font-size: 1em;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.hello {
+    color: #8257e5;
+}
+
+.btn-go-back {
+    height: 1em;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5em;
+    outline: none;
+    cursor: pointer;
+    background-color: #8257e5;
+    border: none;
+    color: #FAFAFA;
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    transition: backgrou
+}
